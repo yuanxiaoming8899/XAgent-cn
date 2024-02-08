@@ -1,219 +1,242 @@
-<div align= "center">
-    <h1> <img src="assets/readme/xagent_logo.png" height=40 align="texttop">XAgent</h1>
+<div class="Box-sc-g0xbh4-0 bJMeLZ js-snippet-clipboard-copy-unpositioned" data-hpc="true"><article class="markdown-body entry-content container-lg" itemprop="text"><div align="center" dir="auto">
+    <h1 tabindex="-1" dir="auto"><a id="user-content--xagent" class="anchor" aria-hidden="true" tabindex="-1" href="#-xagent"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a> <a target="_blank" rel="noopener noreferrer" href="/OpenBMB/XAgent/blob/main/assets/readme/xagent_logo.png"><img src="/OpenBMB/XAgent/raw/main/assets/readme/xagent_logo.png" height="40" align="texttop" style="max-width: 100%;"></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">X代理</font></font></h1>
 </div>
-
-<div align="center">
-
-[![Twitter](https://img.shields.io/twitter/follow/XAgent?style=social)](https://twitter.com/XAgentTeam) [![Discord](https://img.shields.io/badge/XAgent-Discord-purple?style=flat)](https://discord.gg/zncs5aQkWZ) [![License: Apache 2.0](https://img.shields.io/badge/License-Apache_2.0-green.svg)](https://opensource.org/license/apache-2-0/) ![Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)
-
+<div align="center" dir="auto">
+<p dir="auto"><a href="https://twitter.com/XAgentTeam" rel="nofollow"><img src="https://camo.githubusercontent.com/a25e2ab4ffcfd43da6f1ada6f64b07b30d6e1691a3fa256927cd767f26784fd4/68747470733a2f2f696d672e736869656c64732e696f2f747769747465722f666f6c6c6f772f584167656e743f7374796c653d736f6369616c" alt="推特" data-canonical-src="https://img.shields.io/twitter/follow/XAgent?style=social" style="max-width: 100%;"></a> <a href="https://discord.gg/zncs5aQkWZ" rel="nofollow"><img src="https://camo.githubusercontent.com/be2ba508ce97a36b1d67760bb40814efd64d8b9e63e578513706ea5592be2269/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f584167656e742d446973636f72642d707572706c653f7374796c653d666c6174" alt="不和谐" data-canonical-src="https://img.shields.io/badge/XAgent-Discord-purple?style=flat" style="max-width: 100%;"></a> <a href="https://opensource.org/license/apache-2-0/" rel="nofollow"><img src="https://camo.githubusercontent.com/40faeb925b92586a68c8432140bdda52f4430807b725a4b14c64a7144b4ba695/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c6963656e73652d4170616368655f322e302d677265656e2e737667" alt="许可证：Apache 2.0" data-canonical-src="https://img.shields.io/badge/License-Apache_2.0-green.svg" style="max-width: 100%;"></a> <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/8531ea80bc5e0ac96a01c1f2e18f168ca543ffd837522065bcf93f238774d4b8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f636f6e747269627574696f6e732d77656c636f6d652d627269676874677265656e2e7376673f7374796c653d666c6174"><img src="https://camo.githubusercontent.com/8531ea80bc5e0ac96a01c1f2e18f168ca543ffd837522065bcf93f238774d4b8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f636f6e747269627574696f6e732d77656c636f6d652d627269676874677265656e2e7376673f7374796c653d666c6174" alt="欢迎" data-canonical-src="https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat" style="max-width: 100%;"></a></p>
 </div>
-
-<p align="center">
-    <a>English</a> •
-    <a href="README_ZH.md">中文</a> •
-    <a href="README_JA.md">日本語</a>
+<p align="center" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+    英语•
+    </font></font><a href="/OpenBMB/XAgent/blob/main/README_ZH.md"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">中文</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">•
+    </font></font><a href="/OpenBMB/XAgent/blob/main/README_JA.md"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">日本语</font></font></a>
 </p>
-
-<p align="center">
-  <a href="#quickstart">Tutorial</a> •
-  <a href="https://www.youtube.com/watch?v=QGkpd-tsFPA">Demo</a> •
-  <a href="https://blog.x-agent.net/blog/xagent/">Blog</a> •
-  <a href="https://xagent-doc.readthedocs.io/en/latest/">Documentation</a> •
-  <a href="#Citation">Citation</a>
+<p align="center" dir="auto">
+  <a href="#quickstart"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">教程</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">•
+  </font></font><a href="https://www.youtube.com/watch?v=QGkpd-tsFPA" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">演示</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">•
+  </font></font><a href="https://blog.x-agent.net/blog/xagent/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">博客</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">•
+  </font></font><a href="https://xagent-doc.readthedocs.io/en/latest/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">文档</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">•
+  </font></font><a href="#Citation"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">引用</font></font></a>
 </p>
-
-
-## 📖 Introduction
-
-XAgent is an open-source experimental Large Language Model (LLM) driven autonomous agent that can automatically solve various tasks. 
-It is designed to be a general-purpose agent that can be applied to a wide range of tasks. XAgent is still in its early stages, and we are working hard to improve it.
-
-🏆 Our goal is to create a super-intelligent agent that can solve any given task!
-
-We welcome diverse forms of collaborations, including full-time and part-time roles and more. If you are interested in the frontiers of agents and want to join us in realizing true autonomous agents, please contact us at xagentteam@gmail.com.
-
-<div align="center">
-    <img src="assets/readme/overview.png" alt="Overview of Xagent" width="700"/>
-    <br/>
-    <figcaption>Overview of XAgent.</figcaption>
-</div>
-
-### <img src="assets/readme/xagent_logo.png" height=30 align="texttop"> XAgent
-
-XAgent is designed with the following features:
-- **Autonomy**: XAgent can automatically solve various tasks without human participation.
-- **Safety**: XAgent is designed to run safely. All actions are constrained inside a docker container. Run it anyway!
-- **Extensibility**: XAgent is designed to be extensible. You can easily add new tools to enhance agent's abilities and even new agents！
-- **GUI**: XAgent provides a friendly GUI for users to interact with the agent. You can also use the command line interface to interact with the agent.
-- **Cooperation with Human**: XAgent can collaborate with you to tackle tasks. It not only has the capability to follow your guidance in solving complex tasks on the go but it can also seek your assistance when it encounters challenges.
-
-XAgent is composed of three parts:
-- **🤖 Dispatcher** is responsible for dynamically instantiating and dispatching tasks to different agents. It allows us to add new agents and improve the agents' abilities.
-- **🧐 Planner** is responsible for generating and rectifying plans for tasks. It divides tasks into subtasks and generates milestones for them, allowing agents to solve tasks step by step.
-- **🦾 Actor** is responsible for conducting actions to achieve goals and finish subtasks. The actor utilizes various tools to solve subtasks, and it can also collaborate with humans to solve tasks.
-
-<div align="center">
-    <img src="assets/readme/workflow.png" alt="Workflow of Xagent" width="700"/>
-    <br/>
-    <figcaption>Workflow of XAgent.</figcaption>
-</div>
-
-### 🧰 ToolServer
-
-ToolServer is the server that provides XAgent with powerful and safe tools to solve tasks. It is a docker container that provides a safe environment for XAgent to run.
-Currently, ToolServer provides the following tools:
-- **📝 File Editor** provides a text editing tool to write, read, and modify files.
-- **📘 Python Notebook** provides an interactive Python notebook that can run Python code to validate ideas, draw figures, etc.
-- **🌏 Web Browser** provides a web browser to search and visit webpages.
-- **🖥️ Shell** provides a bash shell tool that can execute any shell commands, even install programs and host services.
-- **🧩 Rapid API** provides a tool to retrieve APIs from Rapid API and call them, which offers a wide range of APIs for XAgent to use. See [ToolBench](https://github.com/OpenBMB/ToolBench) to get more information about the Rapid API collections.
-You can also easily add new tools to ToolServer to enhance XAgent's abilities.
-
-<div><a id="Quickstart"></a></div>
-
-## ✨ Quickstart
-
-### 🛠️ Build and Setup ToolServer
-
-ToolServer is where XAgent's action takes place. It is a docker container that provides a safe environment for XAgent to run.
-So you should install `docker` and `docker-compose` first. 
-Then, you need to build the ToolServer image. Construct referring to any one of the following methods:
-
-#### Pull the image from docker hub by running the following command:
-
-```bash
-docker compose up
-```
-
-#### Build an image from local sources by running the following command:
-
-```bash
-docker compose build
-docker compose up
-```
-This will build the image for the ToolServer and start the ToolServer's container. 
-If you want to run the container in the background, please use `docker compose up -d`.
-Refer [here](ToolServer/README.md) for detailed information about our ToolServer.
-
-If the ToolServer is updated, you have to repull/rebuild the images:
-```bash
-docker compose pull
-```
-Or
-```bash
-docker compose build
-```
-
-### 🎮 Setup and Run XAgent
-
-After setting up ToolServer, you can start to run XAgent.
-- Install requirements (Require Python >= 3.10)
-```bash
-pip install -r requirements.txt
-```
-
-- Configure XAgent
-
-1. You should configure XAgent in `assets/config.yml` before running it. 
-2. At least one OpenAI key is provided in `assets/config.yml`, which is used to access OpenAI API.
-We highly recommend using `gpt-4-32k` to run XAgent; `gpt-4` is also OK for most simple tasks.
-In any case, at least one `gpt-3.5-turbo-16k` API key should be provided as a backup model.
-We do not test or recommend using `gpt-3.5-turbo` to run XAgent due to minimal context length; you should not try to run XAgent on that.
-3. If you want to change the config_file path for `XAgentServer`, you should modify the `CONFIG_FILE` value in `.env` file and restart the docker container.
-
-
-- Run XAgent
-```bash
-python run.py --task "put your task here" --config-file "assets/config.yml"
-```
-1. You can use the argument `--upload-files` to select the initial files you want to submit to XAgent.
-
-2. The local workspace for your XAgent is in `local_workspace`, where you can find all the files generated by XAgent throughout the running process. 
-
-3. After execution, the entire `workspace` in `ToolServerNode` will be copied to `running_records` for your convenience.
-
-4. Besides, in `running_records`, you can find all the intermediate steps information, e.g., task statuses, LLM's input-output pairs, used tools, etc.
-
-5. You can load from a record to reproduce a former run, just by setting `record_dir` in config(default to `Null`). The record is a system-level recording tied to the code version of XAgent. All running-config、query、code execution statuses (including errors)、server behavior will be documented.
-
-6. We have removed all sensitive information (including API keys) from the record so you can safely share it with others. In the near future, we will introduce more granular sharing options highlighting the contributions of humans during execution.
-
-   
-
-- Run XAgent with GUI
-The container `XAgent-Server` is started with nginx and a web server listening on port `5173`.
-You could visit `http://localhost:5173` to interact with XAgent by using web UI.
-The default username and password are `guest` and `xagent`, respectively.
-Refer [here](XAgentServer/README.md) for the detailed information about our GUI Demo.
-
-<div><a id="Demo"></a></div>
-
-## 🎬 Demo
-
-Here, we also show some cases of solving tasks by XAgent:
-You can check our live demo on [XAgent Official Website](https://www.x-agent.net/). We also provide a video demo and showcases of using XAgent here:
-![Demo](assets/readme/demo.gif)
-
-### Case 1. Data Analysis: Demonstrating the Effectiveness of Dual-Loop Mechanism
-
-We start with a case of aiding users in intricate data analysis. Here, our user submitted an `iris.zip` file to XAgent, seeking assistance in data analysis. XAgent swiftly broke down the task into four sub-tasks: (1) data inspection and comprehension, (2) verification of the system's Python environment for relevant data analysis libraries, (3) crafting data analysis code for data processing and analysis, and (4) compiling an analytical report based on the Python code's execution results.
-Here is a figure drawn by XAgent.
-![Data Statics by XAgent](assets/readme/statistics.png)
-
-
-### Case 2. Recommendation: A New Paradigm of Human-Agent Interaction
-
-Empowered with the unique capability to actively seek human assistance and collaborate in problem-solving, XAgent continues to redefine the boundaries of human-agent cooperation. As depicted in the screenshot below, a user sought XAgent's aid in recommending some great restaurants for a friendly gathering yet failed to provide specific details. Recognizing the insufficiency of the provided information, XAgent employed the AskForHumanHelp tool, prompting human intervention to elicit the user's preferred location, budget constraints, culinary preferences, and dietary restrictions. Armed with this valuable feedback, XAgent seamlessly generated tailored restaurant recommendations, ensuring a personalized and satisfying experience for the user and their friends.
-
-![Illustration of Ask for Human Help of XAgent](assets/readme/ask_for_human_help.png)
-
-### Case 3. Training Model: A Sophisticated Tool User
-
-XAgent not only tackles mundane tasks but also serves as an invaluable aid in complex tasks such as model training. Here, we show a scenario where a user desires to analyze movie reviews and evaluate the public sentiment surrounding particular films. In response, XAgent promptly initiates the process by downloading the IMDB dataset to train a cutting-edge BERT model (see screenshot below), harnessing the power of deep learning. Armed with this trained BERT model, XAgent seamlessly navigates the intricate nuances of movie reviews, offering insightful predictions regarding the public's perception of various films.
-
-![bert_1](assets/readme/bert_1.png)
-![bert_2](assets/readme/bert_2.png)
-![bert_3](assets/readme/bert_3.png)
-
-### 📊 Evaluation
-
-We conduct human preference evaluation to evaluate XAgent's performance. We prepare [over 50 real-world complex tasks](assets/tasks.yml) for assessment, which can be categorized into 5 classes: Search and Report, Coding and Developing, Data Analysis, Math, and Life Assistant.
-We compare the results of XAgent with [AutoGPT](https://github.com/Significant-Gravitas/AutoGPT), which shows a total win of XAgent over AutoGPT. 
-All running records can refer to [here](https://drive.google.com/drive/folders/1I-j6FZDyMRrLTpZ64jeN89emA77AbNfc?usp=drive_link).
-
-![HumanPrefer](assets/readme/agent_comparison.png)
-
-We report a significant improvement of XAgent over AutoGPT in terms of human preference.
-
-We also evaluate XAgent on the following benchmarks:
-![Benchmarks](assets/readme/eval_on_dataset.png)
-
-
-<div><a id="Blog"></a></div>
-
-## 🖌️ Blog
-
-Our blog is available at [here](https://blog.x-agent.net/)!
-
-<div><a id="Citation"></a></div>
-
-## 🌟 Our Contributors
-
-A heartfelt thank you to all our contributors. Your efforts make this project grow and thrive. Every contribution, big or small, is invaluable.
-
-![Contributors](https://contrib.rocks/image?repo=OpenBMB/XAgent)
-
-## 🌟 Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=openbmb/xagent&type=Date)](https://star-history.com/##openbmb/xagent&Date)
-
-## Citation
-
-If you find our repo useful, please kindly consider citing:
-```angular2
-@misc{xagent2023,
+<h2 tabindex="-1" dir="auto"><a id="user-content--introduction" class="anchor" aria-hidden="true" tabindex="-1" href="#-introduction"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">📖 简介</font></font></h2>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">XAgent 是一个开源实验性大型语言模型 (LLM) 驱动的自主代理，可以自动解决各种任务。它被设计为一个通用代理，可以应用于广泛的任务。 XAgent 仍处于早期阶段，我们正在努力改进它。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🏆 我们的目标是创建一个可以解决任何给定任务的超级智能代理！</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">我们欢迎多种形式的合作，包括全职和兼职等。如果您对代理前沿感兴趣并希望与我们一起实现真正的自治代理，请通过</font></font><a href="mailto:xagentteam@gmail.com"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">xagentteam@gmail.com</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">联系我们。</font></font></p>
+<div align="center" dir="auto">
+    <a target="_blank" rel="noopener noreferrer" href="/OpenBMB/XAgent/blob/main/assets/readme/overview.png"><img src="/OpenBMB/XAgent/raw/main/assets/readme/overview.png" alt="Xagent 概述" width="700" style="max-width: 100%;"></a>
+    <br><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+    XAgent 概述。
+</font></font></div>
+<h3 tabindex="-1" dir="auto"><a id="user-content--xagent-1" class="anchor" aria-hidden="true" tabindex="-1" href="#-xagent-1"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><a target="_blank" rel="noopener noreferrer" href="/OpenBMB/XAgent/blob/main/assets/readme/xagent_logo.png"><img src="/OpenBMB/XAgent/raw/main/assets/readme/xagent_logo.png" height="30" align="texttop" style="max-width: 100%;"></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">X代理</font></font></h3>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">XAgent的设计具有以下特点：</font></font></p>
+<ul dir="auto">
+<li><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">自主性</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">：XAgent可以自动解决各种任务，无需人工参与。</font></font></li>
+<li><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">安全</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">：XAgent 旨在安全运行。所有操作都限制在 docker 容器内。无论如何运行它！</font></font></li>
+<li><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">可扩展性</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">：XAgent 被设计为可扩展的。您可以轻松添加新工具来增强特工能力甚至新特工！</font></font></li>
+<li><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">GUI</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">：XAgent 为用户与代理交互提供了友好的 GUI。您还可以使用命令行界面与代理交互。</font></font></li>
+<li><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">与人类合作</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">：XAgent 可以与您协作处理任务。它不仅能够在旅途中遵循您的指导来解决复杂的任务，而且在遇到挑战时还可以寻求您的帮助。</font></font></li>
+</ul>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">XAgent由三部分组成：</font></font></p>
+<ul dir="auto">
+<li><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🤖 Dispatcher</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">负责动态实例化任务并将任务分派给不同的代理。它允许我们添加新的代理并提高代理的能力。</font></font></li>
+<li><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🧐 Planner</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">负责生成和修正任务计划。它将任务划分为子任务并为它们生成里程碑，允许代理逐步解决任务。</font></font></li>
+<li><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🦾 Actor</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">负责执行行动以实现目标并完成子任务。 Actor利用各种工具来解决子任务，它也可以与人类协作来解决任务。</font></font></li>
+</ul>
+<div align="center" dir="auto">
+    <a target="_blank" rel="noopener noreferrer" href="/OpenBMB/XAgent/blob/main/assets/readme/workflow.png"><img src="/OpenBMB/XAgent/raw/main/assets/readme/workflow.png" alt="Xagent的工作流程" width="700" style="max-width: 100%;"></a>
+    <br><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+    XAgent 的工作流程。
+</font></font></div>
+<h3 tabindex="-1" dir="auto"><a id="user-content--toolserver" class="anchor" aria-hidden="true" tabindex="-1" href="#-toolserver"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🧰 工具服务器</font></font></h3>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">ToolServer是为XAgent提供强大且安全的工具来解决任务的服务器。它是一个docker容器，为XAgent的运行提供安全的环境。目前，ToolServer提供了以下工具：</font></font></p>
+<ul dir="auto">
+<li><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">📝 文件编辑器</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">提供了一个用于写入、读取和修改文件的文本编辑工具。</font></font></li>
+<li><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">📘 Python Notebook</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">提供了一个交互式 Python 笔记本，可以运行 Python 代码来验证想法、画图等。</font></font></li>
+<li><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🌏 网页浏览器</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">提供网页浏览器来搜索和访问网页。</font></font></li>
+<li><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🖥️ Shell</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">提供了一个 bash shell 工具，可以执行任何 shell 命令，甚至安装程序和托管服务。</font></font></li>
+<li><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🧩 Rapid API</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">提供了从 Rapid API 检索 API 并调用它们的工具，它为 XAgent 提供了广泛的 API 可供使用。请参阅</font></font><a href="https://github.com/OpenBMB/ToolBench"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">ToolBench</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">以获取有关 Rapid API 集合的更多信息。您还可以轻松地向 ToolServer 添加新工具以增强 XAgent 的能力。</font></font></li>
+</ul>
+<div dir="auto"><a id="user-content-quickstart"></a></div>
+<h2 tabindex="-1" dir="auto"><a id="user-content--quickstart" class="anchor" aria-hidden="true" tabindex="-1" href="#-quickstart"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">✨ 快速入门</font></font></h2>
+<h3 tabindex="-1" dir="auto"><a id="user-content-️-build-and-setup-toolserver" class="anchor" aria-hidden="true" tabindex="-1" href="#️-build-and-setup-toolserver"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🛠️ 构建和设置 ToolServer</font></font></h3>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">ToolServer 是 XAgent 操作发生的地方。它是一个docker容器，为XAgent的运行提供安全的环境。所以你应该先安装</font></font><code>docker</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">并安装</font></font><code>docker-compose</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">。然后，您需要构建 ToolServer 映像。参照以下任意一种方法进行构建：</font></font></p>
+<h4 tabindex="-1" dir="auto"><a id="user-content-pull-the-image-from-docker-hub-by-running-the-following-command" class="anchor" aria-hidden="true" tabindex="-1" href="#pull-the-image-from-docker-hub-by-running-the-following-command"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">通过运行以下命令从 docker hub 拉取镜像：</font></font></h4>
+<div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto"><pre>docker compose up</pre><div class="zeroclipboard-container">
+    <clipboard-copy aria-label="Copy" class="ClipboardButton btn btn-invisible js-clipboard-copy m-2 p-0 tooltipped-no-delay d-flex flex-justify-center flex-items-center" data-copy-feedback="Copied!" data-tooltip-direction="w" value="docker compose up" tabindex="0" role="button">
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy js-clipboard-copy-icon">
+    <path d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z"></path><path d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z"></path>
+</svg>
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check js-clipboard-check-icon color-fg-success d-none">
+    <path d="M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z"></path>
+</svg>
+    </clipboard-copy>
+  </div></div>
+<h4 tabindex="-1" dir="auto"><a id="user-content-build-an-image-from-local-sources-by-running-the-following-command" class="anchor" aria-hidden="true" tabindex="-1" href="#build-an-image-from-local-sources-by-running-the-following-command"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">通过运行以下命令从本地源构建映像：</font></font></h4>
+<div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto"><pre>docker compose build
+docker compose up</pre><div class="zeroclipboard-container">
+    <clipboard-copy aria-label="Copy" class="ClipboardButton btn btn-invisible js-clipboard-copy m-2 p-0 tooltipped-no-delay d-flex flex-justify-center flex-items-center" data-copy-feedback="Copied!" data-tooltip-direction="w" value="docker compose build
+docker compose up" tabindex="0" role="button">
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy js-clipboard-copy-icon">
+    <path d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z"></path><path d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z"></path>
+</svg>
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check js-clipboard-check-icon color-fg-success d-none">
+    <path d="M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z"></path>
+</svg>
+    </clipboard-copy>
+  </div></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">这将为 ToolServer 构建映像并启动 ToolServer 的容器。如果您想在后台运行容器，请使用</font></font><code>docker compose up -d</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">.</font><font style="vertical-align: inherit;">有关我们的 ToolServer 的详细信息，</font><font style="vertical-align: inherit;">请参阅</font></font><a href="/OpenBMB/XAgent/blob/main/ToolServer/README.md"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">此处。</font></font></a><font style="vertical-align: inherit;"></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">如果更新了 ToolServer，您必须重新拉取/重建映像：</font></font></p>
+<div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto"><pre>docker compose pull</pre><div class="zeroclipboard-container">
+    <clipboard-copy aria-label="Copy" class="ClipboardButton btn btn-invisible js-clipboard-copy m-2 p-0 tooltipped-no-delay d-flex flex-justify-center flex-items-center" data-copy-feedback="Copied!" data-tooltip-direction="w" value="docker compose pull" tabindex="0" role="button">
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy js-clipboard-copy-icon">
+    <path d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z"></path><path d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z"></path>
+</svg>
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check js-clipboard-check-icon color-fg-success d-none">
+    <path d="M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z"></path>
+</svg>
+    </clipboard-copy>
+  </div></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">或者</font></font></p>
+<div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto"><pre>docker compose build</pre><div class="zeroclipboard-container">
+    <clipboard-copy aria-label="Copy" class="ClipboardButton btn btn-invisible js-clipboard-copy m-2 p-0 tooltipped-no-delay d-flex flex-justify-center flex-items-center" data-copy-feedback="Copied!" data-tooltip-direction="w" value="docker compose build" tabindex="0" role="button">
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy js-clipboard-copy-icon">
+    <path d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z"></path><path d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z"></path>
+</svg>
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check js-clipboard-check-icon color-fg-success d-none">
+    <path d="M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z"></path>
+</svg>
+    </clipboard-copy>
+  </div></div>
+<h3 tabindex="-1" dir="auto"><a id="user-content--setup-and-run-xagent" class="anchor" aria-hidden="true" tabindex="-1" href="#-setup-and-run-xagent"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🎮 设置并运行 XAgent</font></font></h3>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">设置好ToolServer后，就可以开始运行XAgent了。</font></font></p>
+<ul dir="auto">
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">安装要求（需要 Python &gt;= 3.10）</font></font></li>
+</ul>
+<div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto"><pre>pip install -r requirements.txt</pre><div class="zeroclipboard-container">
+    <clipboard-copy aria-label="Copy" class="ClipboardButton btn btn-invisible js-clipboard-copy m-2 p-0 tooltipped-no-delay d-flex flex-justify-center flex-items-center" data-copy-feedback="Copied!" data-tooltip-direction="w" value="pip install -r requirements.txt" tabindex="0" role="button">
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy js-clipboard-copy-icon">
+    <path d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z"></path><path d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z"></path>
+</svg>
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check js-clipboard-check-icon color-fg-success d-none">
+    <path d="M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z"></path>
+</svg>
+    </clipboard-copy>
+  </div></div>
+<ul dir="auto">
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">配置XAgent</font></font></li>
+</ul>
+<ol dir="auto">
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">您应该在</font></font><code>assets/config.yml</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">运行 XAgent 之前对其进行配置。</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">中至少提供了一个OpenAI密钥</font></font><code>assets/config.yml</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">，用于访问OpenAI API。我们强烈推荐使用</font></font><code>gpt-4-32k</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">XAgent来运行；</font></font><code>gpt-4</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">对于大多数简单的任务来说也可以。无论如何，至少</font></font><code>gpt-3.5-turbo-16k</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">应提供一个 API 密钥作为备份模型。</font></font><code>gpt-3.5-turbo</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">由于上下文长度最小，</font><font style="vertical-align: inherit;">我们不测试或建议使用它来运行 XAgent；</font><font style="vertical-align: inherit;">您不应该尝试在其上运行 XAgent。</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">如果要更改 config_file 路径</font></font><code>XAgentServer</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">，则应修改file</font></font><code>CONFIG_FILE</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">中的值</font></font><code>.env</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">并重新启动 docker 容器。</font></font></li>
+</ol>
+<ul dir="auto">
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">运行XAgent</font></font></li>
+</ul>
+<div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto"><pre>python run.py --task <span class="pl-s"><span class="pl-pds">"</span>put your task here<span class="pl-pds">"</span></span> --config-file <span class="pl-s"><span class="pl-pds">"</span>assets/config.yml<span class="pl-pds">"</span></span></pre><div class="zeroclipboard-container">
+    <clipboard-copy aria-label="Copy" class="ClipboardButton btn btn-invisible js-clipboard-copy m-2 p-0 tooltipped-no-delay d-flex flex-justify-center flex-items-center" data-copy-feedback="Copied!" data-tooltip-direction="w" value="python run.py --task &quot;put your task here&quot; --config-file &quot;assets/config.yml&quot;" tabindex="0" role="button">
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy js-clipboard-copy-icon">
+    <path d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z"></path><path d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z"></path>
+</svg>
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check js-clipboard-check-icon color-fg-success d-none">
+    <path d="M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z"></path>
+</svg>
+    </clipboard-copy>
+  </div></div>
+<ol dir="auto">
+<li>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">您可以使用该参数</font></font><code>--upload-files</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">来选择要提交给 XAgent 的初始文件。</font></font></p>
+</li>
+<li>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">XAgent 的本地工作区位于 中</font></font><code>local_workspace</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">，您可以在其中找到 XAgent 在整个运行过程中生成的所有文件。</font></font></p>
+</li>
+<li>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">执行后，整个</font></font><code>workspace</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">in</font></font><code>ToolServerNode</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">将被复制到</font></font><code>running_records</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">以方便您。</font></font></p>
+</li>
+<li>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">此外，在 中</font></font><code>running_records</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">，您可以找到所有中间步骤信息，例如任务状态、LLM 的输入输出对、使用的工具等。</font></font></p>
+</li>
+<li>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">您可以从记录加载以重现以前的运行，只需</font></font><code>record_dir</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">在配置中进行设置（默认为</font></font><code>Null</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">）。该记录是与 XAgent 的代码版本相关的系统级记录。所有运行配置、查询、代码执行状态（包括错误）、服务器行为都会被记录下来。</font></font></p>
+</li>
+<li>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">我们已从记录中删除所有敏感信息（包括 API 密钥），以便您可以安全地与其他人共享。在不久的将来，我们将引入更精细的共享选项，突出人类在执行过程中的贡献。</font></font></p>
+</li>
+</ol>
+<ul dir="auto">
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">使用 GUI 运行 XAgent 容器</font></font><code>XAgent-Server</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">由 nginx 和侦听 port 的 Web 服务器启动</font></font><code>5173</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">。您可以</font></font><code>http://localhost:5173</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">使用 Web UI 访问与 XAgent 交互。默认用户名和密码分别为</font></font><code>guest</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">和</font></font><code>xagent</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">。</font><font style="vertical-align: inherit;">有关我们的 GUI 演示的详细信息，</font><font style="vertical-align: inherit;">请参阅</font></font><a href="/OpenBMB/XAgent/blob/main/XAgentServer/README.md"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">此处。</font></font></a><font style="vertical-align: inherit;"></font></li>
+</ul>
+<div dir="auto"><a id="user-content-demo"></a></div>
+<h2 tabindex="-1" dir="auto"><a id="user-content--demo" class="anchor" aria-hidden="true" tabindex="-1" href="#-demo"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🎬 演示</font></font></h2>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">在这里，我们还展示了一些通过XAgent解决任务的案例：您可以在</font></font><a href="https://www.x-agent.net/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">XAgent官网</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">查看我们的现场演示。我们还在这里提供了使用 XAgent 的视频演示和展示：
+</font></font><animated-image data-catalyst=""><a target="_blank" rel="noopener noreferrer" href="/OpenBMB/XAgent/blob/main/assets/readme/demo.gif" data-target="animated-image.originalLink"><img src="/OpenBMB/XAgent/raw/main/assets/readme/demo.gif" alt="演示" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
+      <span class="AnimatedImagePlayer" data-target="animated-image.player" hidden="">
+        <a data-target="animated-image.replacedLink" class="AnimatedImagePlayer-images" href="https://github.com/OpenBMB/XAgent/blob/main/assets/readme/demo.gif" target="_blank">
+          
+        <span data-target="animated-image.imageContainer">
+            <img data-target="animated-image.replacedImage" alt="Demo" class="AnimatedImagePlayer-animatedImage" src="https://github.com/OpenBMB/XAgent/raw/main/assets/readme/demo.gif" style="display: block; opacity: 1;">
+          <canvas class="AnimatedImagePlayer-stillImage" aria-hidden="true" width="759" height="724"></canvas></span></a>
+        <button data-target="animated-image.imageButton" class="AnimatedImagePlayer-images" tabindex="-1" aria-label="Play Demo" hidden=""></button>
+        <span class="AnimatedImagePlayer-controls" data-target="animated-image.controls" hidden="">
+          <button data-target="animated-image.playButton" class="AnimatedImagePlayer-button" aria-label="Play Demo">
+            <svg aria-hidden="true" focusable="false" class="octicon icon-play" width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+              <path d="M4 13.5427V2.45734C4 1.82607 4.69692 1.4435 5.2295 1.78241L13.9394 7.32507C14.4334 7.63943 14.4334 8.36057 13.9394 8.67493L5.2295 14.2176C4.69692 14.5565 4 14.1739 4 13.5427Z">
+            </path></svg>
+            <svg aria-hidden="true" focusable="false" class="octicon icon-pause" width="16" height="16" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
+              <rect x="4" y="2" width="3" height="12" rx="1"></rect>
+              <rect x="9" y="2" width="3" height="12" rx="1"></rect>
+            </svg>
+          </button>
+          <a data-target="animated-image.openButton" aria-label="Open Demo in new window" class="AnimatedImagePlayer-button" href="https://github.com/OpenBMB/XAgent/blob/main/assets/readme/demo.gif" target="_blank">
+            <svg aria-hidden="true" class="octicon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+              <path fill-rule="evenodd" d="M10.604 1h4.146a.25.25 0 01.25.25v4.146a.25.25 0 01-.427.177L13.03 4.03 9.28 7.78a.75.75 0 01-1.06-1.06l3.75-3.75-1.543-1.543A.25.25 0 0110.604 1zM3.75 2A1.75 1.75 0 002 3.75v8.5c0 .966.784 1.75 1.75 1.75h8.5A1.75 1.75 0 0014 12.25v-3.5a.75.75 0 00-1.5 0v3.5a.25.25 0 01-.25.25h-8.5a.25.25 0 01-.25-.25v-8.5a.25.25 0 01.25-.25h3.5a.75.75 0 000-1.5h-3.5z"></path>
+            </svg>
+          </a>
+        </span>
+      </span></animated-image></p>
+<h3 tabindex="-1" dir="auto"><a id="user-content-case-1-data-analysis-demonstrating-the-effectiveness-of-dual-loop-mechanism" class="anchor" aria-hidden="true" tabindex="-1" href="#case-1-data-analysis-demonstrating-the-effectiveness-of-dual-loop-mechanism"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">案例1.数据分析：展示双环机制的有效性</font></font></h3>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">我们从一个帮助用户进行复杂数据分析的案例开始。在这里，我们的用户</font></font><code>iris.zip</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">向 XAgent 提交了一个文件，寻求数据分析方面的帮助。 XAgent迅速将任务分解为四个子任务：（1）数据检查和理解，（2）验证系统的Python环境相关数据分析库，（3）编写数据分析代码进行数据处理和分析，以及（ 4）根据Python代码的执行结果编写分析报告。这是XAgent绘制的图。
+</font></font><a target="_blank" rel="noopener noreferrer" href="/OpenBMB/XAgent/blob/main/assets/readme/statistics.png"><img src="/OpenBMB/XAgent/raw/main/assets/readme/statistics.png" alt="XAgent 的数据统计" style="max-width: 100%;"></a></p>
+<h3 tabindex="-1" dir="auto"><a id="user-content-case-2-recommendation-a-new-paradigm-of-human-agent-interaction" class="anchor" aria-hidden="true" tabindex="-1" href="#case-2-recommendation-a-new-paradigm-of-human-agent-interaction"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">案例2.推荐：人机交互的新范式</font></font></h3>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">XAgent 具有主动寻求人类协助并协作解决问题的独特能力，不断重新定义人类与智能体合作的界限。如下图所示，一位用户寻求 XAgent 的帮助来推荐一些适合友好聚会的好餐厅，但未能提供具体细节。认识到所提供信息的不足，XAgent 采用了 AskForHumanHelp 工具，提示人工干预以引出用户的首选位置、预算限制、烹饪偏好和饮食限制。凭借这些宝贵的反馈，XAgent 无缝生成量身定制的餐厅推荐，确保为用户及其朋友提供个性化且令人满意的体验。</font></font></p>
+<p dir="auto"><a target="_blank" rel="noopener noreferrer" href="/OpenBMB/XAgent/blob/main/assets/readme/ask_for_human_help.png"><img src="/OpenBMB/XAgent/raw/main/assets/readme/ask_for_human_help.png" alt="XAgent 寻求人工帮助的图示" style="max-width: 100%;"></a></p>
+<h3 tabindex="-1" dir="auto"><a id="user-content-case-3-training-model-a-sophisticated-tool-user" class="anchor" aria-hidden="true" tabindex="-1" href="#case-3-training-model-a-sophisticated-tool-user"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">案例3. 训练模型：熟练的工具使用者</font></font></h3>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">XAgent 不仅可以处理日常任务，还可以为模型训练等复杂任务提供宝贵的帮助。在这里，我们展示了一个场景，用户希望分析电影评论并评估围绕特定电影的公众情绪。作为回应，XAgent 通过下载 IMDB 数据集立即启动该过程，以训练尖端的 BERT 模型（见下面的屏幕截图），利用深度学习的力量。借助经过训练的 BERT 模型，XAgent 可以无缝地驾驭电影评论中错综复杂的细微差别，提供有关公众对各种电影看法的富有洞察力的预测。</font></font></p>
+<p dir="auto"><a target="_blank" rel="noopener noreferrer" href="/OpenBMB/XAgent/blob/main/assets/readme/bert_1.png"><img src="/OpenBMB/XAgent/raw/main/assets/readme/bert_1.png" alt="伯特_1" style="max-width: 100%;"></a>
+<a target="_blank" rel="noopener noreferrer" href="/OpenBMB/XAgent/blob/main/assets/readme/bert_2.png"><img src="/OpenBMB/XAgent/raw/main/assets/readme/bert_2.png" alt="伯特_2" style="max-width: 100%;"></a>
+<a target="_blank" rel="noopener noreferrer" href="/OpenBMB/XAgent/blob/main/assets/readme/bert_3.png"><img src="/OpenBMB/XAgent/raw/main/assets/readme/bert_3.png" alt="伯特_3" style="max-width: 100%;"></a></p>
+<h3 tabindex="-1" dir="auto"><a id="user-content--evaluation" class="anchor" aria-hidden="true" tabindex="-1" href="#-evaluation"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">📊 评价</font></font></h3>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">我们进行人类偏好评估来评估 XAgent 的性能。我们准备了</font></font><a href="/OpenBMB/XAgent/blob/main/assets/tasks.yml"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">超过 50 个现实世界的复杂任务</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">进行评估，可分为 5 个类别：搜索和报告、编码和开发、数据分析、数学和生活助手。我们将 XAgent 与</font></font><a href="https://github.com/Significant-Gravitas/AutoGPT"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">AutoGPT</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">的结果进行比较</font><font style="vertical-align: inherit;">，这表明 XAgent 完全胜过 AutoGPT。所有运行记录可以参考</font></font><a href="https://drive.google.com/drive/folders/1I-j6FZDyMRrLTpZ64jeN89emA77AbNfc?usp=drive_link" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">这里</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">。</font></font></p>
+<p dir="auto"><a target="_blank" rel="noopener noreferrer" href="/OpenBMB/XAgent/blob/main/assets/readme/agent_comparison.png"><img src="/OpenBMB/XAgent/raw/main/assets/readme/agent_comparison.png" alt="人类偏好" style="max-width: 100%;"></a></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">我们报告说，在人类偏好方面，XAgent 相对于 AutoGPT 有了显着改进。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">我们还根据以下基准评估 XAgent：
+</font></font><a target="_blank" rel="noopener noreferrer" href="/OpenBMB/XAgent/blob/main/assets/readme/eval_on_dataset.png"><img src="/OpenBMB/XAgent/raw/main/assets/readme/eval_on_dataset.png" alt="基准测试" style="max-width: 100%;"></a></p>
+<div dir="auto"><a id="user-content-blog"></a></div>
+<h2 tabindex="-1" dir="auto"><a id="user-content-️-blog" class="anchor" aria-hidden="true" tabindex="-1" href="#️-blog"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🖌️博客</font></font></h2>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">我们的博客可以在</font></font><a href="https://blog.x-agent.net/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">这里</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">访问！</font></font></p>
+<div dir="auto"><a id="user-content-citation"></a></div>
+<h2 tabindex="-1" dir="auto"><a id="user-content--our-contributors" class="anchor" aria-hidden="true" tabindex="-1" href="#-our-contributors"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🌟 我们的贡献者</font></font></h2>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">衷心感谢我们所有的贡献者。您的努力使这个项目不断成长和繁荣。每一项贡献，无论大小，都是无价的。</font></font></p>
+<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/1a27ee7257d9e48e6f6c2b45f6effd0094c87f241d4e1e81ab02a0244b17bf67/68747470733a2f2f636f6e747269622e726f636b732f696d6167653f7265706f3d4f70656e424d422f584167656e74"><img src="https://camo.githubusercontent.com/1a27ee7257d9e48e6f6c2b45f6effd0094c87f241d4e1e81ab02a0244b17bf67/68747470733a2f2f636f6e747269622e726f636b732f696d6167653f7265706f3d4f70656e424d422f584167656e74" alt="贡献者" data-canonical-src="https://contrib.rocks/image?repo=OpenBMB/XAgent" style="max-width: 100%;"></a></p>
+<h2 tabindex="-1" dir="auto"><a id="user-content--star-history" class="anchor" aria-hidden="true" tabindex="-1" href="#-star-history"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🌟 明星历史</font></font></h2>
+<p dir="auto"><a href="https://star-history.com/##openbmb/xagent&amp;Date" rel="nofollow"><img src="https://camo.githubusercontent.com/e165c2bec0e01c746efc12681f6b158a23b6fdec9f579418087031a668ec8014/68747470733a2f2f6170692e737461722d686973746f72792e636f6d2f7376673f7265706f733d6f70656e626d622f786167656e7426747970653d44617465" alt="明星历史图" data-canonical-src="https://api.star-history.com/svg?repos=openbmb/xagent&amp;type=Date" style="max-width: 100%;"></a></p>
+<h2 tabindex="-1" dir="auto"><a id="user-content-citation" class="anchor" aria-hidden="true" tabindex="-1" href="#citation"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">引文</font></font></h2>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">如果您发现我们的存储库有用，请考虑引用：</font></font></p>
+<div class="snippet-clipboard-content notranslate position-relative overflow-auto"><pre lang="angular2" class="notranslate"><code>@misc{xagent2023,
       title={XAgent: An Autonomous Agent for Complex Task Solving}, 
       author={XAgent Team},
       year={2023},
 }
-```
+</code></pre><div class="zeroclipboard-container">
+    <clipboard-copy aria-label="Copy" class="ClipboardButton btn btn-invisible js-clipboard-copy m-2 p-0 tooltipped-no-delay d-flex flex-justify-center flex-items-center" data-copy-feedback="Copied!" data-tooltip-direction="w" value="@misc{xagent2023,
+      title={XAgent: An Autonomous Agent for Complex Task Solving}, 
+      author={XAgent Team},
+      year={2023},
+}" tabindex="0" role="button">
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy js-clipboard-copy-icon">
+    <path d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z"></path><path d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z"></path>
+</svg>
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check js-clipboard-check-icon color-fg-success d-none">
+    <path d="M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z"></path>
+</svg>
+    </clipboard-copy>
+  </div></div>
+</article></div>
